@@ -1,3 +1,12 @@
+# Description
+
+This is a fork of the `Challenge 1` Ethereum speedrun. The smart contract is
+deployed on the `Sepolia` test net. You can view the contract
+[here](https://sepolia.etherscan.io/address/0x75cf7e3f9ba804319ac99589928a46eebc7b0bfe).
+The demo link of the working application that communicates with the smart
+contract can be found
+[here](https://challenge-1-hm7c4p5hz-ong3r1s-projects.vercel.app/)
+
 # 🚩 Challenge 1: 🔏 Decentralized Staking App
 
 ![readme-1](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/a620999a-a1ff-462d-9ae3-5b49ab0e023a)
