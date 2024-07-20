@@ -1,3 +1,9 @@
+# Description
+
+This is a fork of the [Ethereum Speedrun challenges](https://speedrunethereum.com/). My implementations can be viewed by checking out the respective branches for each challenge. My last completed challenge is `Challenge 1`
+
+---
+
 # 🏗 Scaffold-ETH 2 Challenges
 
 **Learn how to use 🏗 Scaffold-ETH 2 to create decentralized applications on Ethereum. 🚀**
