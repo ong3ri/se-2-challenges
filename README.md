@@ -1,3 +1,6 @@
+# Description
+This is a fork of the `Challenge 0` Ethereum speedrun. The smart contract is deployed on the `Sepolia` test net. You can view the contract [here](https://sepolia.etherscan.io/address/0xfa1b0b2305efc1e647399e3ffaec7957fb0ec98c#code). The demo link of the working application that communicates with the smart contract can be found [here](https://challenge0-emen78cjo-ong3r1s-projects.vercel.app/myNFTs)
+
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
